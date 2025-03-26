@@ -124,7 +124,7 @@ Open Jupyter Notebook and execute the desired enhancement method:
 
 ### 🔥 Fusion-Based Enhancement
 
-<img src="images/output_fusion_based.png" width="400">
+![Image](https://github.com/user-attachments/assets/cfa4204b-2)ae0-46ab-aca2-e631992e97f5
 
 ### 💡 Retinex Method
 
