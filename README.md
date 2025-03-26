@@ -120,7 +120,7 @@ Open Jupyter Notebook and execute the desired enhancement method:
 
 ### 🌑 Dark Channel Prior
 
-<img src="images/output_DCP.png" width="400">
+![Image](https://github.com/user-attachments/assets/0629a0b0-789b-4470-be3c-708e7a310f49)
 
 ### 🔥 Fusion-Based Enhancement
 
