@@ -116,7 +116,7 @@ Open Jupyter Notebook and execute the desired enhancement method:
 
 ### 🎨 CLAHE
 
-<img src="images/output_CLAHE.png" width="400">
+![Image](https://github.com/user-attachments/assets/e48a1112-4579-4c59-9b40-9ca0d7f0d99e)
 
 ### 🌑 Dark Channel Prior
 
