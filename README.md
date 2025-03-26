@@ -1,6 +1,6 @@
 # 🌊 Underwater Image Processing
 
-This repository contains various methods for enhancing underwater images, developed as part of a project at the **National Institute of Technology** from **January 2024 to June 2024**. The project was conducted by **Vikas**, **Shahbaj**, and **Purushottam** under the guidance of **Dr. Bambam** and **Dr. Ashish Kumar Bhandari**.
+This repository contains various methods for enhancing underwater images, developed as part of a project at the **National Institute of Technology** from **January 2024 to June 2024**. The project was conducted by **Vikas Kumar**, **Md Shahbaj**, and **Purushottam Sharma** under the guidance of **Dr. Bambam** and **Dr. Ashish Kumar Bhandari**.
 
 ---
 
