@@ -128,7 +128,7 @@ Open Jupyter Notebook and execute the desired enhancement method:
 
 ### 💡 Retinex Method
 
-<img src="images/output_retinex_method.png" width="400">
+![Image](https://github.com/user-attachments/assets/efcc20c1-22bf-49a4-ba04-42a9964bf16c)
 
 ---
 
